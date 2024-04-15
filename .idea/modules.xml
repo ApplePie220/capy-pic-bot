@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/testforbot.iml" filepath="$PROJECT_DIR$/.idea/testforbot.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/capybara-bot.iml" filepath="$PROJECT_DIR$/.idea/capybara-bot.iml" />
+>>>>>>> f326b9b79fc09b47316168df2bde81139c6e4160
     </modules>
   </component>
 </project>

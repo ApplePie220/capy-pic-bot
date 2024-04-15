@@ -17,7 +17,6 @@ settings = {
 
 bot = commands.Bot(command_prefix=settings['prefix'], intents=intents)
 
-
 @bot.event
 async def on_message(message):
     if message.author == bot.user:
